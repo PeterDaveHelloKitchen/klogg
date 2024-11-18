@@ -122,7 +122,7 @@ Windows installer is also available from:
 
 * [ ![Chocolatey](https://img.shields.io/chocolatey/v/klogg?style=flat)](https://chocolatey.org/packages/klogg)
 * [ ![Scoop Extras bucket](https://img.shields.io/scoop/v/klogg?bucket=extras)](https://scoopsearch.github.io/#/apps?q=klogg)
-* [Winget package](https://winget.run/pkg/variar/klogg) 
+* [ ![Winget package](https://img.shields.io/winget/v/variar.klogg)](https://winget.run/pkg/variar/klogg)
 
 #### Mac OS
 Package for Mac can be installed from Homebrew
@@ -177,7 +177,7 @@ As indicated by this link from the official appimage documentation: https://docs
 
 ### Testing builds
 
-![CI Build and Release](https://github.com/variar/klogg/workflows/CI%20Build%20and%20Release/badge.svg)
+![CI Build](https://github.com/variar/klogg/actions/workflows/ci-build.yml/badge.svg) ![CI Release](https://github.com/variar/klogg/actions/workflows/ci-release.yml/badge.svg)
 
 | Windows | Linux | Mac |
 | ------------- |------------- | ------------- |
